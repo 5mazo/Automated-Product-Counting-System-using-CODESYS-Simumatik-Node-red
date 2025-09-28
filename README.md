@@ -7,6 +7,7 @@ This project demonstrates a fully automated product counting system developed us
 ## 🎥 Demo Video
 [![Watch the Demo](https://img.youtube.com/vi/9ufg_MycdEk/0.jpg)](https://youtu.be/9ufg_MycdEk)  
 ▶️ [Click here to watch on YouTube](https://youtu.be/9ufg_MycdEk)
+https://youtu.be/yAT6tvawFW4
 
 ---
 
